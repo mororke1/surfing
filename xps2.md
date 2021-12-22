@@ -45,8 +45,9 @@ Cotton fabric inlays take MUCH more resin to saturate than you expect. I had to 
 
 # Ride Report
 
-On my first day out with it someone stopped me and said "that looks like a really fun shape." Pretty big compliment considering I've never had that happen (even with "professionally"-built boards) in my ~15 years of surfing.
 
 A wave catching machine...
 
 I do wish it had a bit more volume in the tail since it does tend to drag a bit in weak surf.
+
+On my first day out with it someone stopped me and said "that looks like a really fun shape." Pretty big compliment considering I've never had that happen (even with "professionally"-built boards) in my ~15 years of surfing.
