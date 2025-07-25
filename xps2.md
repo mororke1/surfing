@@ -38,6 +38,10 @@ This time I tried to avoid having the glue seam making unwanted appearances on t
 <img src="images/xps2/IMG_20210820_145122.jpg" alt="Complete" /><figcaption aria-hidden="true">Finished Board (Paint removed on lower half for traction pad placement)</figcaption>
 </figure>
 
+<figure>
+<img src="images/xps2/IMG_8511.jpg" alt="Complete" /><figcaption aria-hidden="true">Dimensions</figcaption>
+</figure>
+
 
 # Remarks
 
